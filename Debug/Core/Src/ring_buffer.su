@@ -1,3 +1,0 @@
-../Core/Src/ring_buffer.c:5:6:RB_Init	16	static
-../Core/Src/ring_buffer.c:12:6:RB_Write	16	static
-../Core/Src/ring_buffer.c:26:6:RB_Read	16	static
